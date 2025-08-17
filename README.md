@@ -51,12 +51,6 @@ The recommender system effectively personalizes browsing by **analyzing user his
 
 ---
 
-## 📖 References
-1. Web Search Personalization Based on Browsing History by Artificial Immune System – Hamid Rastegari & Siti Mariyam Shamsuddin, Universiti Teknologi Malaysia.  
-2. Content-based Recommender System for Movie Website – KE MA, VionLabs.  
-
----
-
 ## ✨ Key Contribution
 - Developed a mechanism that **analyzes user browsing history** to recommend relevant websites.  
 - Created a **Python-based system** for parsing and analyzing Chrome Browser history.  
